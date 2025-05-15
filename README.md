@@ -2,8 +2,7 @@
 <h3 align="center">👀 I'm currently exploring AI & Blockchain technologies.</h3>
 
 - A glimpse into the little web experiments I’ve crafted with curiosity and code. [Tic Tac Toe](https://tic-tac-toe-game-amber-ten.vercel.app/)
-- Tiny projects. Big learning. Clean UI. Check them out [Rock Paper Scissors](https://rock-paper-scissors-game-sooty-nine.vercel.app/).
-- <br>🌱 Deep-diving into backend development to build fast, scalable applications.<br>✨ Skills: Node.js, Express.js, Java, JavaScript, Docker, SQL/MySQL, and more.<br>🤝 Open to collaborating on backend-focused projects.<br>📬 Reach me at: [amankrchandra@proton.me],{Instagram- coder.loops}(X/Twitter- Amankrchandra) <br>⚡ Fun fact: Experience matters—but consistent effort matters more
+- Tiny projects. Big learning. Clean UI. Check them out [Rock Paper Scissors](https://rock-paper-scissors-game-sooty-nine.vercel.app/) <br>🌱 Deep-diving into backend development to build fast, scalable applications.<br>✨ Skills: Node.js, Express.js, Java, JavaScript, Docker, SQL/MySQL, and more.<br>🤝 Open to collaborating on backend-focused projects.<br>📬 Reach me at: [amankrchandra@proton.me],{Instagram- coder.loops}(X/Twitter- Amankrchandra) <br>⚡ Fun fact: Experience matters—but consistent effort matters more
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

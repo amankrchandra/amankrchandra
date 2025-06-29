@@ -22,7 +22,7 @@
 # 📊 GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=amankrchandra&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amankrchandra&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!-- This shows language usage stats across all public repositories -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amankrchandra&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&count_private=true)
 

@@ -1,4 +1,4 @@
-<h1 align="center"> Namaste 🙏 - Here , I'm @Amankrchandra</h1>
+<h1 align="center"> Namaste 🙏 , Here - I'm @Amankrchandra</h1>
 <h3 align="center">🚀 I am currently exploring backend frameworks and systems to strengthen my developer profile. </h3>
 
 - A glimpse into the little web experiments I’ve crafted with curiosity and code. [Tic Tac Toe](https://tic-tac-toe-game-amber-ten.vercel.app/)

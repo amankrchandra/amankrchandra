@@ -1,9 +1,7 @@
 <h1 align="center"> Namaste 🙏 , I'm Aman Kumar Chandra </h1> <br>
  <h3 align="center">Just a guy talking to servers💻</h3>
- <br>
- <a href="https://linkedin.com/in/https://www.linkedin.com/in/amankrchandra/" target="blank"> . 
   <br>
- I am a Backend Engineer🧑‍💻. Crafting clean backend logic for chaotic real-world problems. Logic-first | Reliable code | Scalable system 
+ • I am a Backend Engineer🧑‍💻. Crafting clean backend logic for chaotic real-world problems. Logic-first | Reliable code | Scalable system 
 
 📬 Reach me at: [amankrchandra@proton.me], <br>⚡ Fun fact: Experience matters—but consistent effort matters more 
 

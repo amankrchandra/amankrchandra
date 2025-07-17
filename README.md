@@ -6,11 +6,11 @@
 <a href="https://instagram.com/coder.loops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder.loops" height="30" width="40" /></a>
 </p>
  
-
+<p align="center">
  • I am a Backend Engineer🧑‍💻. Crafting clean backend logic for chaotic real-world problems. Logic-first | Reliable code | Scalable system 
 
-📬 Reach me at: [amankrchandra@proton.me], <br>⚡ Fun fact: Experience matters—but consistent effort matters more 
-
+📬 Here is the professional way to Reach me : [amankrchandra@proton.me], <br>⚡ Fun fact: Experience matters—but consistent effort matters more 
+</p>
 
 
 # 💻 Languages:

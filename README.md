@@ -1,17 +1,19 @@
 <h1 align="center"> Namaste 🙏 , I'm Aman Kumar Chandra </h1> <br>
  <h3 align="center">Just a guy talking to servers💻</h3>
   <br>
+  <h3 align="left">Let's build together</h3>
+<p align="left">
+<a href="https://twitter.com/amankrchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankrchandra" height="30" width="40" /></a>
   <a algin="center" href="https://linkedin.com/in/https://www.linkedin.com/in/amankrchandra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amankrchandra/" height="30" width="40" /></a>
+<a href="https://instagram.com/coder.loops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder.loops" height="30" width="40" /></a>
+</p>
+ 
 
  • I am a Backend Engineer🧑‍💻. Crafting clean backend logic for chaotic real-world problems. Logic-first | Reliable code | Scalable system 
 
 📬 Reach me at: [amankrchandra@proton.me], <br>⚡ Fun fact: Experience matters—but consistent effort matters more 
 
-<h3 align="left">Let's build together</h3>
-<p align="left">
-<a href="https://twitter.com/amankrchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankrchandra" height="30" width="40" /></a>
-<a href="https://instagram.com/coder.loops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder.loops" height="30" width="40" /></a>
-</p>
+
 
 # 💻 Languages:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 

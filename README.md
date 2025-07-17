@@ -8,8 +8,10 @@
  
 <p align="center">
  • I am a Backend Engineer🧑‍💻. Crafting clean backend logic for chaotic real-world problems. Logic-first | Reliable code | Scalable system 
-
-📬 Here is the professional way to Reach me : [amankrchandra@proton.me], <br>⚡ Fun fact: Experience matters—but consistent effort matters more 
+</p>
+<p align="center">
+📬 Here is the professional way to Reach me :  [ amankrchandra@proton.me ], <br>
+ ⚡ Fun fact: Experience matters—but consistent effort matters more 
 </p>
 
 

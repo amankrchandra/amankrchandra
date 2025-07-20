@@ -7,7 +7,7 @@
 </p>
  
 <p align="center">
- • I am a Backend Engineer🧑‍💻. Crafting clean Backend logic for chaotic real-world problems. Logic-first | Reliable code | Scalable system 
+ • I am a Backend Engineer🧑‍💻. Crafting clean Backend logic for chaotic real-world problems. Logic-first | Reliable code | Scalable System 
 </p>
 <p align="center">
 📬 Here is the professional way to Reach me :  [ amankrchandra@proton.me ], <br>

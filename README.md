@@ -46,7 +46,6 @@
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=amankrchandra&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankrchandra&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&count_private=true&v=2" />
-<br>
-![Profile views](https://komarev.com/ghpvc/?username=amankrchandra&color=blue)
+
 
 </div>

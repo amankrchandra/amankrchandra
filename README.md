@@ -47,11 +47,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=amankrchandra&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankrchandra&layout=compact&theme=tokyonight&hide_border=false&langs_count=10&count_private=true&v=2" />
 <br>
-<!-- Visitor Counter Badge -->
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=amankrchandra&icon=1&color=6" alt="Visitor Count"/>
-  </a>
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=amankrchandra&color=blue)
 
 </div>

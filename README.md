@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 📬 Here is the professional way to reach me :  [ amankrchandra@proton.me ], <br>
- ⚡ Fun fact: Experience matters — but consistent effort matters more.
+ ⚡ Fun fact: Experience Matters — But consistent effort matters more.
 </p>
 
 <div align="center">

@@ -1,4 +1,4 @@
-<h1 align="center"> Namaste 🙏 , I'm AMAN KUMAR CHANDRA </h1>
+<h1 align="center"> Namaste 🙏 , I'm Aman Kumar Chandra </h1>
  <h3 align="center">Just a guy talking to servers💻</h3>
 <p align="center">
 <a href="https://twitter.com/amankrchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankrchandra" height="30" width="40" /></a>

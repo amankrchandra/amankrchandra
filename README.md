@@ -10,7 +10,7 @@
  • I'm a Backend Engineer🧑‍💻. Crafting clean BACKEND logic for chaotic real-world problems. Logic-First | Reliable code | Scalable system 
 </p>
 <p align="center">
-📬 Here is the Professional way to reach me :  [ amankrchandra@proton.me ], <br>
+📬 Here is the professional way to reach me :  [ amankrchandra@proton.me ], <br>
  ⚡ Fun fact: Experience matters — But consistent effort matters more.
 </p>
 

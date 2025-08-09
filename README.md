@@ -64,4 +64,4 @@
   ⭐ If you like this Readme.md, consider giving it a 🌟 STAR 🌟 <br>
  <br> <br>
  TATA 🤝
-</div>) but where can i do put inn readme like how i hope you get it 
+</div>)

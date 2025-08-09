@@ -1,4 +1,4 @@
-<h1 align="center">  नमस्ते 🙏 , I'm Aman Kumar Chandra </h1>
+<h1 align="center">  नमस्ते 🙏 , I am Aman Kumar Chandra </h1>
  <h3 align="center">Just a guy talking to servers💻</h3>
 
 <p align="center">
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-  <h3>🧰 Tools / Platforms:</h3>
+  <h3>🧰 Tools / Platforms: </h3>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />

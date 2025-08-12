@@ -1,4 +1,4 @@
-<h1 align="center">  नमस्ते 🙏 , I'm Aman Kumar Chandra </h1>
+<h1 align="center">  नमस्ते 🙏 , I'm Amann Kumar Chandra </h1>
  <h3 align="center">Just a guy talking to servers 💻</h3>
 
 <p align="center">

@@ -1,5 +1,5 @@
 <h1 align="center">  नमस्ते 🙏 , I'm Aman Kumar Chandra </h1>
- <h3 align="center">Just a guy talking to server 💻</h3>
+ <h3 align="center">Just a guy talking to servers 💻</h3>
 
 <p align="center">
 <a href="https://twitter.com/amankrchandra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankrchandra" height="30" width="40" /></a>

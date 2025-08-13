@@ -49,7 +49,7 @@
 <div align="center">
  
 ### 🧭 Dev Philosophy:
-- 🚀 *Ship thing that actually work*
+- 🚀 *Ship things that actually work*
 - 💡 *Saw Pause Think Then Write*
 - 🔄 *Clean code > Fancy code*
 

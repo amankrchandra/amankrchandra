@@ -60,7 +60,7 @@
 
 <div align="center">
     <br>
-  🛠  “Upskilling daily — because you never know when your job turns into a resume line.” <br>
+  🛠  “ Upskilling daily — because you never know when your job turns into a resume line.” <br>
   ❤‍🔥 So ALL THE BEST for Today and Tomorrow! ❤ <br>
   ⭐ If you like this Readme.md, consider giving it a 🌟 STAR 🌟 <br>
  <br> <br>

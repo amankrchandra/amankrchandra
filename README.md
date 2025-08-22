@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  🧠 Diving into blockchainJust in case my resume needs to sound future-proof   <br>
+  🧠 Diving into blockchain. Just in case my resume needs to sound future-proof   <br>
    📬 Here is the professional way to reach me :  [ amankrchandra@proton.me ] <br>
     ⚡ Fun fact: Experience matters — But consistent effort matters more.
      </p>

@@ -7,7 +7,7 @@
  <a href="https://instagram.com/coder.loops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="coder.loops" height="30" width="40" /></a>
 </p>
 <p align="center">
- • I'm a Backenk Engineer🧑‍💻. Crafting clean BACKEND logic for chaotic real-world problems. Logic-First | Reliable code | Scalable system 
+ • I'm a Backend Engineer🧑‍💻. Crafting clean BACKEND logic for chaotic real-world problems. Logic-First | Reliable code | Scalable system 
 </p>
 
 ---
